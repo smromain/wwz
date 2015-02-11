@@ -9,7 +9,8 @@
 * You can move one space in any direction (that you are able) during a step.
 * You can move through gaps in the floor (" ").
 * You will start at the S position and finish at the F position.
-* You cannot move through walls ("|"), as they are solid.* If you hit a wall, or a Zombie, you will need to switch directions on the next step.
+* You cannot move through walls ("|"), as they are solid.
+* If you hit a wall, or a Zombie, you will need to switch directions on the next step.
 
  NOTE: You do not need to create a function to go up floors, but you are welcome to give it a shot for extra credit.
 
