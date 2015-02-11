@@ -1,4 +1,4 @@
-***World War Z++**
+# World War Z++
 **Problem**: Many things, such as death and taxes, are inevitable. Another thing that's inevitable, in the scope of this problem, is the Zombie Apocalypse. You are the lone survivor (good job, go you!), but you've wandered into a labyrinth full of the brain munching monsters. That sucks.
 
 **Rules**: 
@@ -26,4 +26,4 @@ var mazeGrid =
 "|_____ ___Z_|",
 "| |__| _____|",
 "| ________Z_|",
-" F           "]```# wwz
+" F           "]```
