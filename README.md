@@ -15,7 +15,7 @@
  NOTE: You do not need to create a function to go up floors, but you are welcome to give it a shot for extra credit.
 
 **Requirements**:
- Your function should take in a maze grid, which is an array of strings.
+ Your function should take in the following maze grid, which is an array of strings. You do not need to rewrite this maze grid on a whiteboard (that would be cruel and unusual punishment), but it is here for your reference.
 
  Example Maze Grid:
 ```javascript
@@ -30,4 +30,5 @@ var mazeGrid =
 "|_____ ___Z_|",
 "| |__| _____|",
 "| ________Z_|",
-" F           "]```
+" F           "]
+```
